@@ -3,9 +3,9 @@ import "./SearchItem.css"
 const SearchItem = () => {
   return (
     <div className="searchItem">
-      <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/241837079.jpg?k=15fb770d021e848ae1bf0c95c81639785a3a5f58931c183bad896cbd809cb4cd&o=&hp=1" alt="" className="siImg" />
+      <img src="https://pix10.agoda.net/hotelImages/6945065/-1/4d1b08ef0b5cb29261190d7bb08e2de9.jpg?ca=9&ce=1&s=1024x768" alt="" className="siImg" />
       <div className="siDesc">
-        <h1 className="siTitle">Village Hoi An</h1>
+        <h1 className="siTitle">Villa Hoi An</h1>
         <span className="siDistance">3 km from center</span>
         <span className="siTaxiOp">Free airport taxi</span>
         <span className="siSubtitle">

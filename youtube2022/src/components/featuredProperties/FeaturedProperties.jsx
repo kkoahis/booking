@@ -29,8 +29,8 @@ const featuredProperties = () => {
             <span className="fpCity">Quang Nam</span>
             <span className="fpPrice">Starting from 50,6 $</span>
             <div className="fpRating">
-               <button>9.6</button>
-               <span>Excellent</span>
+               <button>8.5</button>
+               <span>Good</span>
             </div>
          </div>
          <div className="fpItem">
@@ -49,8 +49,8 @@ const featuredProperties = () => {
             <span className="fpCity">Da Nang</span>
             <span className="fpPrice">Starting from 157,44 $</span>
             <div className="fpRating">
-               <button>8.9</button>
-               <span>Good</span>
+               <button>9.5</button>
+               <span>Excellent</span>
             </div>
          </div>
       </div>

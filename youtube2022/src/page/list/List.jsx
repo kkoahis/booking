@@ -6,6 +6,8 @@ import { useState } from "react"
 import { format } from "date-fns"
 import { DateRange } from "react-date-range"
 import SearchItem from "../../components/searchItem/SearchItem"
+import MailList from "../../components/mailList/MailList"
+import Footer from "../../components/footer/Footer"
 
 
 const List = () => {

@@ -2,16 +2,18 @@
    width: 100%;
    max-width: 1024px;
    font-size: 12px;
+   margin-left: 250px;
+   margin-right: 250px;
 }
 
 .footerLists {
-   width: 100%;
    display: flex;
    justify-content: space-between;
    margin-bottom: 50px;
 }
 
 .footerList {
+   width: 100%;
    list-style: none;
    padding: 0;
 }

@@ -64,6 +64,7 @@ const Footer = () => {
                <li className="footerListItem">Corporate contact</li>
             </ul>
          </div>
+         
          <div className="footerText">Copyright © 1996–2023 BookingH.com™. All rights reserved.
          </div>
       </div>
