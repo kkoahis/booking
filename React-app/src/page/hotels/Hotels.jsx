@@ -44,13 +44,16 @@ const Hotels = () => {
 
     if (direction === "l") {
       newSliderNumber = slideNumber === 0 ? 5 : slideNumber - 1;
+      // sẽ có 0 -> 5 Images tương ứng 
+      // nếu đang là ảnh đầu tiên thì sẽ trả về giá trị 5, không thì sẽ trả về giá trị slideNumber - 1 = 4
+      // console.log(newSliderNumber);
     }
     else {
       newSliderNumber = slideNumber === 5 ? 0 : slideNumber + 1;
+      // console.log(newSliderNumber);
     }
     setSliderNumber(newSliderNumber);
   }
-
 
   return (
     <div>
